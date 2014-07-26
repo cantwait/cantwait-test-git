@@ -13,6 +13,10 @@ public class Persona implements Serializable{
 	
 	public Persona(){}
 	
+	public Persona(String id){
+		this.id = id;
+	}
+	
 	public Persona(String id, String name){
 		this.id = id;
 		this.name = name;
