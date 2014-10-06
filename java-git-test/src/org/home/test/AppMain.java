@@ -15,6 +15,7 @@ public class AppMain {
 		System.out.println("line9");
 		System.out.println("line10");
 		System.out.println("line11");
+		System.out.println("line12");
 	}
 
 }
